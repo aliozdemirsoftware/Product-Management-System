@@ -102,8 +102,10 @@ Modern UI (WPF / Web)
 
 # Uygulama Görselleri 📸
 
-🧾 Ürün Ekleme Formu
-
 🧾Proje
 
-🔄 Kullanıcı Güncelleme / Silme
+
+🧾 Ürün Ekleme Formu
+
+
+🧾 Ürün Güncelleme / Silme Formu
